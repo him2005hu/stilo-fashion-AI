@@ -1,0 +1,5 @@
+{
+  "name": "Stilo AI Fashion Assistant",
+  "description": "An AI-powered fashion assistant that provides personalized outfit suggestions based on occasion and weather.",
+  "requestFramePermissions": ["geolocation"]
+}
